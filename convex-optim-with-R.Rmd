@@ -19,6 +19,12 @@ knitr::opts_chunk$set(
 
 This is a project of get into the research paper "Convex optimization with R".
 
+I will focus on several topics:
+
+- How to minimize the time of mastering convex optimization?
+- How to change lasso to a convex optimal problem, and solve it by the package `Rmosek`?
+- What can we do with package 'Rmosek`?
+
 
 ## 快猛糙
 
